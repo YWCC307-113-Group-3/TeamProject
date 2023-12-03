@@ -1,5 +1,5 @@
-Research Document 
-Group 3 Topic 3 
+Research Document
+Group 3 Topic 3
 YWCC - 307
 Karan Komal, Daniyal Khan, M. Sameed Shoaib, Sree Chityala
 
