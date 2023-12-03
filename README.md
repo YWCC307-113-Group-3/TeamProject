@@ -26,7 +26,7 @@ Marriott International is facing pressure to innovate and review the AI strategy
 
 # Benefits / Drawbacks of Implementing AI 
 - https://www.law.com/dailybusinessreview/2023/08/30/ai-in-the-workplace-benefits-and-potential-drawbacks/?slreturn=20231008175407#:~:text=Artificial%20Intelligence%20(AI)%20is%20revolutionizing,the%20everlasting%20fight%20against%20misinformation.
-Ethical/Societal Concerns
+# Ethical/Societal Concerns
 - https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/
 
 # Government (data and privacy) Slide 7
